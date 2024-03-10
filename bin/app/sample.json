@@ -1,0 +1,18 @@
+{
+    "theatreId": "TH001",
+    "theatreName": "Theatre1",
+    "totalSeats": {
+        "totalRows":50,
+        "totalColumns":10
+    },
+    "address": {
+      "streetAddress": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10001"
+    },
+    "soundSystem":"Dolby Atmos",
+    "phoneNumber":"646-555-4567",
+    "showTimes":["05:00","09:30","14:00","18:30","23:00"]
+}
+  

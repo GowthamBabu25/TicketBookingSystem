@@ -1,0 +1,27 @@
+{
+  "theatreName": "Theatre1",
+  "numberOfScreens": 2,
+  "screens": [
+      {
+          "screenNo": 1,
+          "totalSeats": 200,
+          "numberOfRows": 10,
+          "numberOfColumns": 20,
+          "soundSystem": "Dolby Atmos"
+      },
+      {
+          "screenNo": 2,
+          "totalSeats": 150,
+          "numberOfRows": 8,
+          "numberOfColumns": 18,
+          "soundSystem": "THX"
+      }
+  ],
+  "address": {
+      "streetAddress": "123 Main Street",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10001"
+  }
+}
+

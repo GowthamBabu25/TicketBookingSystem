@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Software\\json-simple-1.1.jar\\json-simple-1.1.jar",
+        "d:\\Software\\gson-2.2.2.jar\\gson-2.2.2.jar",
+        "d:\\Software\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar"
+    ]
+}

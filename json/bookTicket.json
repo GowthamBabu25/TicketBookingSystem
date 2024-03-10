@@ -1,0 +1,8 @@
+{
+    "movieName": "Manjummel Boys",
+    "theatreName": "Theatre1",
+    "totalSeats": ["A1","A2","A3","A4"],
+    "numberOfSeats":"4",
+    "showTimes":"05:00",
+    "phoneNumber":"646-555-4567"
+}
